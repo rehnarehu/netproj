@@ -1,4 +1,5 @@
 
+This is a virtual chatroom, developed in python.
 
 ## Python app
 Clients can connect to a server and communicate with each other.
